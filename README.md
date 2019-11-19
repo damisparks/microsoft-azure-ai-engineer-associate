@@ -1,7 +1,10 @@
-# Microsoft AI Engineer Associate 🤓
-How to become Microsoft Certified: Azure AI Engineer Associate 
+# Microsoft Certification Resources 
+**This was how i became certfified and i am glad to share my resources and notes to help others.**
 
-**This was how i become certfified and i am glad to share my resources and notes to help others.**
+This resource is aimed at Cloud Solution Architects, Azure artificial intelligence designers, Azure Trainers and AI developers.
+
+> # Microsoft AI Engineer Associate 🤓
+How to become Microsoft Certified: Azure AI Engineer Associate 
 
 ## Audience profile 👩🏽‍💻👨🏽‍💻
 This course is aimed at Cloud Solution Architects, Azure artificial intelligence designers, and AI developers.
@@ -24,4 +27,10 @@ At the end of this path, you should be able to use
 ## Ways to prepare. 
 There are 2 ways to prepare : 
 - Online learing (**`FREE`**) - *Most people i have spoken with went for this. 😀*
-- Paid (**Instructor Lead**)
+- Paid (**Instructor Lead**, there are various paid instructors to choose from based on your location) 
+
+## Path Approach
+There are various approaches to learn and be certified. You can take the 
+- **Azure Fundamentals** (It is not required for the exam but i recommend since it helps in understanding how **Azure** works.)
+    - Microsoft Certified: Azure AI Engineer Associate
+- 
