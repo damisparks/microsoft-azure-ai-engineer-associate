@@ -1,4 +1,5 @@
 # Microsoft Certification Resources 
+
 **This was how i became certfified and i am glad to share my resources and notes to help others.**
 
 This resource is aimed at Cloud Solution Architects, Azure artificial intelligence designers, Azure Trainers and AI developers.
@@ -32,5 +33,8 @@ There are 2 ways to prepare :
 ## Path Approach
 There are various approaches to learn and be certified. You can take the 
 - **Azure Fundamentals** (It is not required for the exam but i recommend since it helps in understanding how **Azure** works.)
-    - Microsoft Certified: Azure AI Engineer Associate
-- 
+- Microsoft Certified: Azure AI Engineer Associate
+
+## Azure Fundamentals 
+Below is the breakdown for the course : 
+- Introduction to Azure.
